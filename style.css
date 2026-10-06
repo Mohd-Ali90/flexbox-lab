@@ -161,3 +161,8 @@ main{
     display: flex;
     justify-content: space-between;
 }
+
+span{
+    font-family: sans-serif;
+    font-weight: bold;
+}
